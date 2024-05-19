@@ -10,6 +10,6 @@ This is an HTML, CSS, and JavaScript-based travel website crafted without depend
 
 ## Getting Started
 To use or view the project locally, follow these steps:
-  1. Clone the repository: git clone https://github.com/your-username/semondu-travels.git
-  2. Navigate to the project directory: cd semondu-travels
+  1. Clone the repository 
+  2. Navigate to the project directory
   3. Open the index.html file in your web browser to view the website.
